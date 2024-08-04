@@ -1,4 +1,5 @@
 # Accessing-Art-Museums
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg/1280px-Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg" alt="Metropolitan Museum of Art" width="500" height="300">
 Accessing Art Museums: Comparing Art Museum Admission Costs to Local Income Data
 
 Data Sources
