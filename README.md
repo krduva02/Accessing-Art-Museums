@@ -20,11 +20,13 @@ The following installations are required for running this project:
 Follow these steps to run the project on a local machine:
 
 1. **Access and clone repo**
+
   https://github.com/krduva02/Accessing-Art-Museums
 
 2. **Install virtual environment**
 
  1. After cloning the repo to your machine, navigate to the project folder in GitBash/Terminal.
+
  2. Create a virtual environment in the project folder.
 
    On Windows:
@@ -38,13 +40,15 @@ Follow these steps to run the project on a local machine:
    ```
    python3 -m venv venv
    ```
-   
+
  3. Activate the virtual environment. `source venv/bin/activate`
+ 
  4. Install the required packages. `pip install -r requirements.txt`
 
  A new virtual environment named `venv` will now be in the current directory.
  
 3. **Install required packages**
+
    Install the required packages by running the following command:
 
    ```

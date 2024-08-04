@@ -1,0 +1,328 @@
+,ID,Museum,Website,City,State,ZIP Code,General Admission,Median Income,Monthly Median Income,Index
+234,241,Akron Art Museum,akronartmuseum.org,Akron,Ohio,44308,12.0,15875.0,1322.9,90.7
+263,270,Carnegie Museum of Art,cmoa.org,Pittsburgh,Pennsylvania,15213,20.0,28790.0,2399.2,83.4
+209,215,Museum of the City of New York,mcny.org,New York,New York,10029,23.0,35640.0,2970.0,77.4
+79,85,Peoria Riverfront Museum,peoriariverfrontmuseum.org,Peoria,Illinois,61602,12.0,20000.0,1666.7,72.0
+138,144,Michele & Donald DAmour Museum of Fine Arts,springfieldmuseums.org,Springfield,Massachusetts,1105,13.0,23948.0,1995.7,65.1
+261,268,University of Pennsylvania Museum of Archaeology and Anthropology,penn.museum,Philadelphia,Pennsylvania,19104,18.0,33766.0,2813.8,64.0
+87,93,Figge Art Museum,figgeartmuseum.org,Davenport,Iowa,52801,12.0,24255.0,2021.2,59.4
+114,120,Boston Museum of Fine Arts,mfa.org,Boston,Massachusetts,2115,25.0,51454.0,4287.8,58.3
+276,283,Columbia Museum of Art,columbiamuseum.org,Columbia,South Carolina,29201,15.0,33561.0,2796.8,53.6
+95,101,Speed Art Museum,speedmuseum.org,Louisville,Kentucky,40208,15.0,34206.0,2850.5,52.6
+14,15,The Broad,thebroad.org,Los Angeles,California,90012,25.0,58444.0,4870.3,51.3
+268,275,Ponce Museum of Art,museoarteponce.org,Ponce,Puerto Rico,717,6.0,14164.0,1180.3,50.8
+204,210,The Cloisters,metmuseum.org/visit/met-cloisters,New York,New York,10040,25.0,59115.0,4926.2,50.7
+211,217,New Museum of Contemporary Art,newmuseum.org,New York,New York,10002,18.0,43362.0,3613.5,49.8
+148,154,Detroit Institute of Arts,dia.org,Detroit,Michigan,48202,14.0,34244.0,2853.7,49.1
+27,28,Asian Art Museum of San Francisco,asianart.org,San Francisco,California,94102,25.0,62388.0,5199.0,48.1
+63,69,Telfair Museum of Art,telfair.org,Savannah,Georgia,31401,20.0,49881.0,4156.8,48.1
+82,88,Indianapolis Museum of Art,discovernewfields.org,Indianapolis,Indiana,46208,18.0,46693.0,3891.1,46.3
+57,63,Salvador Dali Museum,thedali.org,St. Petersburg,Florida,33701,25.0,65058.0,5421.5,46.1
+132,138,Massachusetts Museum of Contemporary Art,massmoca.org,North Adams,Massachusetts,1247,20.0,53692.0,4474.3,44.7
+252,259,Portland Art Museum,portlandartmuseum.org,Portland,Oregon,97205,20.0,56739.0,4728.2,42.3
+265,272,Mattress Factory,mattress.org,Pittsburgh,Pennsylvania,15212,20.0,57837.0,4819.8,41.5
+5,6,Phoenix Art Museum,phxart.org,Phoenix,Arizona,85004,23.0,67727.0,5643.9,40.8
+246,253,National Cowboy & Western Heritage Museum,nationalcowboymuseum.org,Oklahoma City,Oklahoma,73111,12.5,37908.0,3159.0,39.6
+102,108,Portland Museum of Art,portlandmuseum.org,Portland,Maine,4101,18.0,54513.0,4542.8,39.6
+58,64,Norton Museum of Art,norton.org,West Palm Beach,Florida,33401,18.0,55238.0,4603.2,39.1
+56,62,Ringling Museum of Art,ringling.org,Sarasota,Florida,34243,25.0,77236.0,6436.3,38.8
+222,228,Asheville Art Museum,ashevilleart.org,Asheville,North Carolina,28801,15.0,46496.0,3874.7,38.7
+283,290,Frist Center for the Visual Arts,fristartmuseum.org,Nashville,Tennessee,37203,20.0,63834.0,5319.5,37.6
+248,255,Gilcrease Museum,gilcrease.org,Tulsa,Oklahoma,74127,15.0,47983.0,3998.6,37.5
+277,284,Hunter Museum of American Art,huntermuseum.org,Chattanooga,Tennessee,37403,20.0,64583.0,5381.9,37.2
+146,152,Worcester Art Museum,worcesterart.org,Worcester,Massachusetts,1609,18.0,58246.0,4853.8,37.1
+254,261,Allentown Art Museum,allentownartmuseum.org,Allentown,Pennsylvania,18101,12.0,39044.0,3253.7,36.9
+351,361,Milwaukee Art Museum,mam.org,Milwaukee,Wisconsin,53202,19.0,62505.0,5208.8,36.5
+220,226,Everson Museum of Art,everson.org,Syracuse,New York,13202,8.0,26271.0,2189.2,36.5
+115,121,Isabella Stewart Gardner Museum,gardnermuseum.org,Boston,Massachusetts,2115,15.0,51454.0,4287.8,35.0
+104,110,Farnsworth Art Museum,farnsworthmuseum.org,Rockland,Maine,4841,15.0,52212.0,4351.0,34.5
+154,160,Ohr-O'Keefe Museum of Art,georgeohr.org,Biloxi,Mississippi,39530,10.0,35109.0,2925.8,34.2
+230,237,Reynolda House Museum of American Art,reynoldahouse.org,Winston-Salem,North Carolina,27106,18.0,63308.0,5275.7,34.1
+179,185,Georgia O'Keefe Museum,okeeffemuseum.org,Santa Fe,New Mexico,87501,22.0,77400.0,6450.0,34.1
+218,224,Memorial Art Gallery,mag.rochester.edu,Rochester,New York,14607,15.0,53281.0,4440.1,33.8
+70,76,Art Institute of Chicago,artic.edu,Chicago,Illinois,60603,35.0,124888.0,10407.3,33.6
+153,159,Mississippi Museum of Art,msmuseumart.org,Jackson,Mississippi,39202,10.0,36359.0,3029.9,33.0
+333,342,Seattle Art Museum,seattleartmuseum.org,Seattle,Washington,98101,30.0,111099.0,9258.2,32.4
+264,271,Frick Art & Historical Center,thefrickpittsburgh.org,Pittsburgh,Pennsylvania,15208,15.0,55775.0,4647.9,32.3
+190,196,Corning Museum of Glass,cmog.org,Corning,New York,14830,20.0,74314.0,6192.8,32.3
+18,19,Crocker Art Museum,crockerart.org,Sacramento,California,95814,12.0,44537.0,3711.4,32.3
+65,71,Honolulu Museum of Art,honolulumuseum.org,Honolulu,Hawaii,96814,20.0,74221.0,6185.1,32.3
+74,80,Oriental Institute,oi.uchicago.edu,Chicago,Illinois,60637,10.0,37247.0,3103.9,32.2
+35,36,Denver Art Museum,denverartmuseum.org,Denver,Colorado,80204,20.0,74993.0,6249.4,32.0
+140,146,Norman Rockwell Museum,nrm.org,Stockbridge,Massachusetts,1262,20.0,75804.0,6317.0,31.7
+139,145,Chesterwood Norman Rockwell Museum,chesterwood.org,Stockbridge,Massachusetts,1262,20.0,75804.0,6317.0,31.7
+191,197,Rockwell Museum,rockwellmuseum.org,Corning,New York,14810,12.0,45590.0,3799.2,31.6
+46,50,Museum of Contemporary Art Jacksonville,mocajacksonville.unf.edu,Jacksonville,Florida,32202,10.0,38042.0,3170.2,31.5
+287,294,Amarillo Museum of Art,amarilloart.org,Amarillo,Texas,79101,10.0,38291.0,3190.9,31.3
+272,279,Rhode Island School of Design Museum,risdmuseum.org,Providence,Rhode Island,2903,15.0,57850.0,4820.8,31.1
+321,330,San Antonio Museum of Art,samuseum.org,San Antonio,Texas,78215,20.0,77725.0,6477.1,30.9
+13,14,"Museum of Contemporary Art, Los Angeles",moca.org,Los Angeles,California,90012,15.0,58444.0,4870.3,30.8
+12,13,Los Angeles County Museum of Art,lacma.org,Los Angeles,California,90036,25.0,97583.0,8131.9,30.7
+151,157,Walker Art Center,walkerart.org,Minneapolis,Minnesota,55403,15.0,58895.0,4907.9,30.6
+135,141,Peabody Essex Museum,pem.org,Salem,Massachusetts,1970,20.0,79267.0,6605.6,30.3
+320,329,McNay Art Museum,mcnayart.org,San Antonio,Texas,78209,20.0,79914.0,6659.5,30.0
+271,278,National Museum of American Illustration,americanillustration.org,Newport,Rhode Island,2840,20.0,81307.0,6775.6,29.5
+48,52,Bass Museum,thebass.org,Miami,Florida,33139,15.0,60971.0,5080.9,29.5
+4,5,Anchorage Museum of Art and History,anchoragemuseum.org,Anchorage,Alaska,99501,18.0,73540.0,6128.3,29.4
+259,266,Philadelphia Museum of Art,philamuseum.org,Philadelphia,Pennsylvania,19130,25.0,102279.0,8523.2,29.3
+257,264,Barnes Foundation,barnesfoundation.org,Philadelphia,Pennsylvania,19130,25.0,102279.0,8523.2,29.3
+239,246,Columbus Museum of Art,columbusmuseum.org,Columbus,Ohio,43215,18.0,75397.0,6283.1,28.6
+15,16,Palm Springs Art Museum,psmuseum.org,Palm Springs,California,92262,15.0,63710.0,5309.2,28.3
+44,47,Delaware Center for the Contemporary Arts,thedcca.org,Wilmington,Delaware,19801,10.0,42453.0,3537.8,28.3
+327,336,Shelburne Museum,shelburnemuseum.org,Shelburne,Vermont,5482,25.0,106863.0,8905.2,28.1
+21,22,San Diego Museum of Art,sdma.org,San Diego,California,92101,20.0,86403.0,7200.2,27.8
+7,8,Tucson Museum of Art,tucsonmuseumofart.org,Tucson,Arizona,85701,12.0,52639.0,4386.6,27.4
+186,192,Dia Beacon,diaart.org/visit/visit/dia-beacon,Beacon,New York,12508,20.0,87618.0,7301.5,27.4
+62,68,High Museum of Art,high.org,Atlanta,Georgia,30309,25.0,110303.0,9191.9,27.2
+24,25,San Francisco Museum of Modern Art,sfmoma.org,San Francisco,California,94103,25.0,111028.0,9252.3,27.0
+221,227,Munson-Williams-Proctor Arts Institute,mwpai.org,Utica,New York,13502,12.0,53548.0,4462.3,26.9
+199,205,Museum of Modern Art MoMA,moma.org,New York,New York,10019,25.0,113335.0,9444.6,26.5
+86,92,Sheldon Swope Art Museum,swope.org,Terre Haute,Indiana,47807,5.0,22677.0,1889.8,26.5
+47,51,Polk Museum of Art,polkmuseumofart.org,Lakeland,Florida,33801,10.0,45932.0,3827.7,26.1
+185,191,Albany Institute of History & Art,albanyinstitute.org,Albany,New York,12210,10.0,46244.0,3853.7,25.9
+336,345,Maryhill Museum of Art,maryhillmuseum.org,Maryhill,Washington,98620,12.0,55507.0,4625.6,25.9
+28,29,Exploratorium,exploratorium.edu,San Francisco,California,94111,35.0,164107.0,13675.6,25.6
+251,258,Jordan Schnitzer Museum of Art,jsma.uoregon.edu,Eugene,Oregon,97403,10.0,47021.0,3918.4,25.5
+159,165,Yellowstone Art Museum,artmuseum.org,Billings,Montana,59101,12.0,56659.0,4721.6,25.4
+94,100,Wichita Art Museum,wichitaartmuseum.org,Wichita,Kansas,67203,10.0,47367.0,3947.2,25.3
+50,56,"Institute of Contemporary Art, Miami",icamiami.org,Miami,Florida,33137,15.0,71348.0,5945.7,25.2
+196,202,Storm King Art Center,stormking.org,Mountainville,New York,12553,20.0,96088.0,8007.3,25.0
+303,312,Modern Art Museum of Fort Worth,themodern.org,Fort Worth,Texas,76107,16.0,77277.0,6439.8,24.8
+39,40,New Britain Museum of American Art,nbmaa.org,New Britain,Connecticut,6052,15.0,72917.0,6076.4,24.7
+51,57,Museum of Contemporary Art North Miami,mocanomi.org,Miami,Florida,33161,10.0,49159.0,4096.6,24.4
+2,3,Mobile Museum of Art,mobilemuseumofart.com,Mobile,Alabama,36608,12.0,59400.0,4950.0,24.2
+34,35,Clyfford Still Museum,clyffordstillmuseum.org,Denver,Colorado,80204,15.0,74993.0,6249.4,24.0
+52,58,Wolfsonian-FIU Museum,wolfsonian.org,Miami,Florida,33139,12.0,60971.0,5080.9,23.6
+144,150,Clark Art Institute,clarkart.edu,Williamstown,Massachusetts,1267,20.0,101823.0,8485.2,23.6
+38,39,Wadsworth Atheneum,thewadsworth.org,Hartford,Connecticut,6103,15.0,76395.0,6366.2,23.6
+29,30,Santa Barbara Museum of Art,sbma.net,Santa Barbara,California,93101,15.0,76130.0,6344.2,23.6
+334,343,Seattle Asian Art Museum,seattleartmuseum.org/visit/asian-art-museum,Seattle,Washington,98112,30.0,153204.0,12767.0,23.5
+178,184,Museum of Indian Arts and Culture,miaclab.org,Santa Fe,New Mexico,87501,15.0,77400.0,6450.0,23.3
+353,363,Museum of Wisconsin Art,wisconsinart.org,West Bend,Wisconsin,53095,15.0,77397.0,6449.8,23.3
+245,252,Oklahoma City Museum of Art,okcmoa.com,Oklahoma City,Oklahoma,73102,12.0,62278.0,5189.8,23.1
+187,193,Albright-Knox Art Gallery,albrightknox.org,Buffalo,New York,14222,15.0,79343.0,6611.9,22.7
+43,46,Delaware Art Museum,delart.org,Wilmington,Delaware,19806,15.0,80196.0,6683.0,22.4
+182,188,Taos Art Museum,taosartmuseum.org,Taos,New Mexico,87571,10.0,53915.0,4492.9,22.3
+183,189,Harwood Museum of Art,harwoodmuseum.org,Taos,New Mexico,87571,10.0,53915.0,4492.9,22.3
+184,190,Millicent Rogers Museum,millicentrogers.org,Taos,New Mexico,87571,10.0,53915.0,4492.9,22.3
+193,199,Hyde Collection,hydecollection.org,Glens Falls,New York,12801,12.0,64665.0,5388.8,22.3
+270,277,Newport Art Museum,newportartmuseum.org,Newport,Rhode Island,2840,15.0,81307.0,6775.6,22.1
+197,203,Guggenheim,guggenheim.org,New York,New York,10128,25.0,137253.0,11437.8,21.9
+207,213,Neue Galerie New York,neuegalerie.org,New York,New York,10128,25.0,137253.0,11437.8,21.9
+192,198,Arnot Art Museum,arnotartmuseum.org,Elmira,New York,14901,7.0,38604.0,3217.0,21.8
+354,364,National Museum of Wildlife Art,wildlifeart.org,Jackson Hole,Wyoming,83001,20.0,110734.0,9227.8,21.7
+83,89,Eiteljorg Museum of American Indians and Western Art,eiteljorg.org,Indianapolis,Indiana,46204,15.0,84735.0,7061.2,21.2
+231,238,Plains Art Museum,plainsart.org,Fargo,North Dakota,58102,10.0,56823.0,4735.2,21.1
+262,269,The Andy Warhol Museum,warhol.org,Pittsburgh,Pennsylvania,15222,20.0,115298.0,9608.2,20.8
+267,274,Trundle Manor,trundlemanor.com,Pittsburgh,Pennsylvania,15212,10.0,57837.0,4819.8,20.7
+149,155,Grand Rapids Art Museum,artmuseumgr.org,Grand Rapids,Michigan,49503,10.0,58165.0,4847.1,20.6
+98,104,Ogden Museum of Southern Art,ogdenmuseum.org,New Orleans,Louisiana,70130,13.5,78674.0,6556.2,20.6
+54,60,Appleton Museum of Art,appletonmuseum.org,Ocala,Florida,34474,10.0,58678.0,4889.8,20.5
+152,158,The Museum of Russian Art,tmora.org,Minneapolis,Minnesota,55408,12.0,70158.0,5846.5,20.5
+200,206,Whitney Museum of American Art,whitney.org,New York,New York,10014,25.0,147267.0,12272.2,20.4
+120,126,Harvard Art Museums,harvardartmuseums.org,Cambridge,Massachusetts,2138,20.0,118320.0,9860.0,20.3
+331,340,Taubman Museum of Art,taubmanmuseum.org,Roanoke,Virginia,24011,10.0,59700.0,4975.0,20.1
+202,208,Frick Collection,frick.org,New York,New York,10021,25.0,149432.0,12452.7,20.1
+107,113,American Visionary Art Museum,avam.org,Baltimore,Maryland,21230,15.95,95470.0,7955.8,20.0
+340,349,Phillips Collection,phillipscollection.org,Washington,District of Columbia,20008,20.0,123134.0,10261.2,19.5
+41,44,Biggs Museum of American Art,biggsmuseum.org,Dover,Delaware,19901,10.0,61809.0,5150.8,19.4
+284,291,Cheekwood Museum of Art,cheekwood.org,Nashville,Tennessee,37205,22.0,136100.0,11341.7,19.4
+55,61,Orlando Museum of Art,omart.org,Orlando,Florida,32803,15.0,92557.0,7713.1,19.4
+255,262,Brandywine River Museum,brandywine.org/museum,Chadds Ford,Pennsylvania,19348,18.0,113446.0,9453.8,19.0
+49,55,Perez Art Museum Miami,pamm.org,Miami,Florida,33132,16.0,101518.0,8459.8,18.9
+198,204,Metropolitan Museum of Art,metmuseum.org,New York,New York,10028,25.0,160244.0,13353.7,18.7
+189,195,Fenimore Art Museum,fenimoreartmuseum.org,Cooperstown,New York,13326,12.0,77198.0,6433.2,18.7
+174,180,New Mexico Museum of Art,nmartmuseum.org,Santa Fe,New Mexico,87501,12.0,77400.0,6450.0,18.6
+180,186,Vladem Contemporary,www.nmartmuseum.org,Santa Fe,New Mexico,87501,12.0,77400.0,6450.0,18.6
+177,183,IAIA Museum of Contemporary Native Arts,iaia.edu/mocna,Santa Fe,New Mexico,87501,12.0,77400.0,6450.0,18.6
+105,111,Center for Maine Contemporary Art,cmcanow.org,Rockland,Maine,4841,8.0,52212.0,4351.0,18.4
+203,209,The Morgan Library & Museum,themorgan.org,New York,New York,10016,22.0,145864.0,12155.3,18.1
+173,179,Currier Museum of Art,currier.org,Manchester,New Hampshire,3104,12.0,80018.0,6668.2,18.0
+269,276,Museum of Art of Puerto Rico,museoartepr.org,San Juan,Puerto Rico,927,6.0,40213.0,3351.1,17.9
+273,280,Gibbes Museum of Art,gibbesmuseum.org,Charleston,South Carolina,29401,12.0,80886.0,6740.5,17.8
+295,304,Dallas Contemporary,dallascontemporary.org,Dallas,Texas,75226,10.0,67612.0,5634.3,17.7
+316,325,International Museum of Art & Science,theimasonline.org,McAllen,Texas,78501,7.0,47809.0,3984.1,17.6
+339,348,National Museum of Women in the Arts,nmwa.org,Washington,District of Columbia,20005,16.0,109147.0,9095.6,17.6
+164,170,Joslyn Art Museum,joslyn.org,Omaha,Nebraska,68106,10.0,69404.0,5783.7,17.3
+23,24,Huntington Library,huntington.org,San Marino,California,91108,25.0,173312.0,14442.7,17.3
+128,134,Cape Ann Museum,capeannmuseum.org,Gloucester,Massachusetts,1930,12.0,84465.0,7038.8,17.0
+258,265,Pennsylvania Academy of Fine Arts,pafa.org,Philadelphia,Pennsylvania,19102,15.0,108350.0,9029.2,16.6
+249,256,Philbrook Museum of Art,philbrook.org,Tulsa,Oklahoma,74114,12.5,90282.0,7523.5,16.6
+315,324,Chinati Foundation,chinati.org,Marfa,Texas,79830,7.0,50584.0,4215.3,16.6
+237,244,Taft Museum of Art,taftmuseum.org,Cincinnati,Ohio,45202,12.0,86765.0,7230.4,16.6
+126,132,Fitchburg Art Museum,fitchburgartmuseum.org,Fitchburg,Massachusetts,1420,9.0,65599.0,5466.6,16.5
+45,48,Boca Raton Museum of Art,bocamuseum.org,Boca Raton,Florida,33432,12.0,87634.0,7302.8,16.4
+332,341,Abby Aldrich Rockefeller Folk Art Museum,colonialwilliamsburg.org/art-museums/rockefeller-museum,Williamsburg,Virginia,23185,13.5,98713.0,8226.1,16.4
+352,362,Villa Terrace Decorative Arts Museum,villaterrace.org,Milwaukee,Wisconsin,53211,10.0,73783.0,6148.6,16.3
+322,331,Tyler Museum of Art,tylermuseum.org,Tyler,Texas,75701,8.0,59107.0,4925.6,16.2
+30,31,Santa Monica Art Museum,santamonicaartmuseum.com,Santa Monica,California,90401,12.0,89892.0,7491.0,16.0
+212,218,Rubin Museum of Art,rubinmuseum.org,New York,New York,10011,19.5,145934.0,12161.2,16.0
+99,105,New Orleans Museum of Art,noma.org,New Orleans,Louisiana,70124,15.0,113525.0,9460.4,15.9
+130,136,Frelinghuysen Morris House and Studio,frelinghuysen.org,Lenox,Massachusetts,1262,10.0,75804.0,6317.0,15.8
+134,140,Provincetown Art Association and Museum,paam.org,Provincetown,Massachusetts,2657,12.0,91447.0,7620.6,15.7
+53,59,Naples Museum of Art,artisnaples.org,Naples,Florida,34108,15.0,115182.0,9598.5,15.6
+67,73,Boise Art Museum,boiseartmuseum.org,Boise,Idaho,83702,10.0,77115.0,6426.2,15.6
+181,187,Museum of Spanish Colonial Art,spanishcolonial.org,Santa Fe,New Mexico,87501,10.0,77400.0,6450.0,15.5
+176,182,SITE Santa Fe,sitesantafe.org,Santa Fe,New Mexico,87501,10.0,77400.0,6450.0,15.5
+88,94,Des Moines Art Center,desmoinesartcenter.org,Des Moines,Iowa,50312,10.0,77612.0,6467.7,15.5
+175,181,Museum of International Folk Art,internationalfolkart.org,Santa Fe,New Mexico,87501,10.0,77400.0,6450.0,15.5
+143,149,Turn Park Art Space,turnpark.com,West Stockbridge,Massachusetts,1238,10.0,77679.0,6473.2,15.4
+26,27,M. H. de Young Memorial Museum,deyoung.famsf.org,San Francisco,California,94118,20.0,157143.0,13095.2,15.3
+201,207,Brooklyn Museum,brooklynmuseum.org,New York,New York,11238,16.0,125747.0,10478.9,15.3
+260,267,Rodin Museum,rodinmuseum.org,Philadelphia,Pennsylvania,19130,13.0,102279.0,8523.2,15.3
+122,128,Peabody Museum of Archaeology and Ethnology,peabody.harvard.edu,Cambridge,Massachusetts,2138,15.0,118320.0,9860.0,15.2
+324,333,Utah Museum of Contemporary Art,utahmoca.org,Salt Lake City,Utah,84101,8.0,64405.0,5367.1,14.9
+40,43,Florence Griswold Museum,florencegriswoldmuseum.org,Old Lyme,Connecticut,6371,15.0,122003.0,10166.9,14.8
+250,257,Sherwin Miller Museum of Jewish Art,jewishmuseum.net,Tulsa,Oklahoma,74136,6.0,49669.0,4139.1,14.5
+299,308,Museum of Geometric and MADI Art,geometricmadimuseum.org,Dallas,Texas,75206,10.0,84784.0,7065.3,14.2
+71,77,Museum of Contemporary Art,mcachicago.org,Chicago,Illinois,60611,15.0,126812.0,10567.7,14.2
+210,216,Cooper-Hewitt Museum,cooperhewitt.org,New York,New York,10128,16.0,137253.0,11437.8,14.0
+188,194,Arkell Museum,arkellmuseum.org,Canajoharie,New York,13326,9.0,77198.0,6433.2,14.0
+20,21,Museum of Contemporary Art San Diego,mcasd.org,San Diego,California,92101,10.0,86403.0,7200.2,13.9
+19,20,Mingei International Museum,mingei.org,San Diego,California,92101,10.0,86403.0,7200.2,13.9
+17,18,USC Pacific Asia Museum,pacificasiamuseum.usc.edu,Pasadena,California,91101,10.0,86631.0,7219.2,13.9
+236,243,Contemporary Arts Center,contemporaryartscenter.org,Cincinnati,Ohio,45202,10.0,86765.0,7230.4,13.8
+168,174,Montclair Art Museum,montclairartmuseum.org,Montclair,New Jersey,7042,15.0,130329.0,10860.8,13.8
+80,86,Illinois State Museum,illinoisstatemuseum.org,Springfield,Illinois,62703,5.0,43760.0,3646.7,13.7
+112,118,Eric Carle Museum of Picture Book Art,carlemuseum.org,Amherst,Massachusetts,1060,9.0,79604.0,6633.7,13.6
+286,293,The Grace Museum,thegracemuseum.org,Abilene,Texas,79601,6.0,53049.0,4420.8,13.6
+253,260,Hallie Ford Museum of Art,willamette.edu/arts/hfma,Salem,Oregon,97301,6.0,53113.0,4426.1,13.6
+25,26,California Palace of the Legion of Honor,legionofhonor.famsf.org,San Francisco,California,94121,15.0,132519.0,11043.2,13.6
+282,289,Memphis Brooks Museum of Art,brooksmuseum.org,Memphis,Tennessee,38103,10.0,89851.0,7487.6,13.4
+124,130,Cape Cod Museum of Art,ccmoa.org,Dennis,Massachusetts,2633,10.0,91974.0,7664.5,13.0
+227,233,Nasher Museum of Art,nasher.duke.edu,Durham,North Carolina,27705,7.0,65935.0,5494.6,12.7
+214,220,Jacques Marchais Museum of Tibetan Art,tibetanmuseum.org,New York,New York,10306,10.0,94758.0,7896.5,12.7
+347,356,Huntington Museum of Art,hmoa.org,Huntington,West Virginia,25701,5.0,47557.0,3963.1,12.6
+37,38,Hill-Stead Museum,hillstead.org,Farmington,Connecticut,6070,15.0,144375.0,12031.2,12.5
+298,307,Museum of Biblical Art,biblicalarts.org,Dallas,Texas,75229,12.0,117083.0,9756.9,12.3
+1,2,Huntsville Museum of Art,hsvmuseum.org,Huntsville,Alabama,35801,10.0,97643.0,8136.9,12.3
+103,109,Ogunquit Museum of American Art,ogunquitmuseum.org,Ogunquit,Maine,3907,10.0,100455.0,8371.2,11.9
+172,178,Hood Museum of Art,hoodmuseum.dartmouth.edu,Hanover,New Hampshire,3755,15.0,152865.0,12738.8,11.8
+317,326,Stark Museum of Art,starkculturalvenues.org,Orange,Texas,77630,6.0,61223.0,5101.9,11.8
+225,231,Bechtler Museum of Modern Art,bechtler.org,Charlotte,North Carolina,28202,9.0,95273.0,7939.4,11.3
+213,219,P.S.1 Contemporary Art Center,momaps1.org,New York,New York,11101,10.0,109625.0,9135.4,10.9
+119,125,Fuller Craft Museum,fullercraft.org,Brockton,Massachusetts,2324,10.0,110625.0,9218.8,10.8
+309,318,"Museum of Fine Arts, Houston",mfah.org,Houston,Texas,77005,19.0,213059.0,17754.9,10.7
+306,315,Bayou Bend Collection and Gardens,mfah.org/visit/bayou-bend-collection-and-gardens,Houston,Texas,77007,12.5,140536.0,11711.3,10.7
+127,133,Danforth Museum,danforth.framingham.edu,Framingham,Massachusetts,1701,11.0,124532.0,10377.7,10.6
+167,173,Museum of International Art,moramuseum.org,Jersey City,New Jersey,10128,12.0,137253.0,11437.8,10.5
+16,17,Norton Simon Museum,nortonsimon.org,Pasadena,California,91108,15.0,173312.0,14442.7,10.4
+247,254,Mabee-Gerrer Museum of Art,mgmoa.org,Shawnee,Oklahoma,74820,5.0,58703.0,4891.9,10.2
+77,83,Ukrainian Institute of Modern Art,uima-chicago.org,Chicago,Illinois,60622,10.0,119134.0,9927.8,10.1
+75,81,National Veterans Art Museum,nvam.org,Chicago,Illinois,60622,10.0,119134.0,9927.8,10.1
+116,122,"Institute of Contemporary Art, Boston",icaboston.org,Boston,Massachusetts,2210,15.0,179643.0,14970.2,10.0
+288,295,The Contemorary Austin,thecontemporaryaustin.org,Austin,Texas,78701,12.0,148049.0,12337.4,9.7
+91,97,Birger Sandzen Memorial Gallery,sandzen.org,Lindsborg,Kansas,67410,5.0,61563.0,5130.2,9.7
+344,353,Kreeger Museum,kreegermuseum.org,Washington,District of Columbia,20008,10.0,123134.0,10261.2,9.7
+219,225,Parrish Art Museum,parrishart.org,Southampton,New York,11976,15.0,185000.0,15416.7,9.7
+206,212,Asia Society,asiasociety.org,New York,New York,10021,12.0,149432.0,12452.7,9.6
+229,236,Contemporary Art Museum of Raleigh,camraleigh.org,Raleigh,North Carolina,27601,5.0,63218.0,5268.2,9.5
+123,129,Museum of Russian Icons,museumofrussianicons.org,Clinton,Massachusetts,1545,10.0,127088.0,10590.7,9.4
+281,288,Dixon Gallery and Gardens,dixon.org,Memphis,Tennessee,38117,7.0,91680.0,7640.0,9.2
+131,137,DeCordova Museum and Sculpture Park,thetrustees.org/place/decordova,Lincoln,Massachusetts,1742,14.0,183657.0,15304.8,9.1
+160,166,Holter Museum of Art,holtermuseum.org,Helena,Montana,59601,5.0,65696.0,5474.7,9.1
+129,135,Fruitlands Museum,thetrustees.org/place/fruitlands,Harvard,Massachusetts,1451,15.0,199191.0,16599.2,9.0
+68,74,Art Museum of Eastern Idaho,theartmuseum.org,Idaho Falls,Idaho,83402,5.0,69153.0,5762.8,8.7
+205,211,Dahesh Museum of Art,daheshmuseum.org,New York,New York,10017,10.0,139964.0,11663.7,8.6
+323,332,Brigham City Museum of Art & History,brighamcitymuseum.org,Brigham City,Utah,84302,5.0,72407.0,6033.9,8.3
+226,232,Mint Museum of Art,mintmuseum.org,Charlotte,North Carolina,28207,15.0,217656.0,18138.0,8.3
+341,350,Dumbarton Oaks,doaks.org,Washington,District of Columbia,20007,10.0,145048.0,12087.3,8.3
+266,273,Toonseum,toonseum.org,Pittsburgh,Pennsylvania,15222,8.0,115298.0,9608.2,8.3
+291,299,Mexic-Arte Museum,mexic-artemuseum.org,Austin,Texas,78701,10.0,148049.0,12337.4,8.1
+280,287,Belz Museum of Asian and Judaic Art,belzmuseum.org,Memphis,Tennessee,38103,6.0,89851.0,7487.6,8.0
+297,306,Meadows Museum,meadowsmuseumdallas.org,Dallas,Texas,75205,12.0,180698.0,15058.2,8.0
+33,34,American Museum of Western Art,anschutzcollection.org,Denver,Colorado,80204,5.0,74993.0,6249.4,8.0
+290,297,Elisabet Ney Museum,elisabetneymuseum.org,Austin,Texas,78751,5.0,75972.0,6331.0,7.9
+194,200,Heckscher Museum of Art,heckscher.org,Huntington,New York,11743,10.0,164182.0,13681.8,7.3
+118,124,Museum of Bad Art,museumofbadart.org,Boston,Massachusetts,2144,8.0,133627.0,11135.6,7.2
+59,65,Charles Hosmer Morse Museum of American Art,morsemuseum.org,Winter Park,Florida,32789,6.0,101113.0,8426.1,7.1
+100,106,Paul and Lulu Hilliard University Art Museum,hilliardmuseum.org,Lafayette,Louisiana,70503,5.0,90286.0,7523.8,6.6
+165,171,Heritage Glass Museum,heritageglassmuseum.com,Glassboro,New Jersey,11772,5.0,103207.0,8600.6,5.8
+314,323,Museum of Western Art,museumofwesternart.com,Kerrville,Texas,78025,1.0,64340.0,5361.7,1.9
+145,151,Williams College Museum of Art,wcma.williams.edu,Williamstown,Massachusetts,1267,0.0,101823.0,8485.2,0.0
+166,172,Mana Contemporary,manacontemporary.com,Jersey City,New Jersey,7306,0.0,74610.0,6217.5,0.0
+223,229,Folk Art Center,southernhighlandguild.org/folk-art-center,Asheville,North Carolina,28805,0.0,61404.0,5117.0,0.0
+163,169,Sheldon Museum of Art,sheldonartmuseum.org,Lincoln,Nebraska,68508,0.0,34520.0,2876.7,0.0
+31,32,Iris & B. Gerald Cantor Center for Visual Arts,museum.stanford.edu,Stanford,California,94305,0.0,72500.0,6041.7,0.0
+319,328,Blue Star Contemporary Art Center,bluestarart.org,San Antonio,Texas,78204,0.0,47620.0,3968.3,0.0
+318,327,Artpace,artpace.org,San Antonio,Texas,78205,0.0,36746.0,3062.2,0.0
+137,143,George Walter Vincent Smith Art Museum,springfieldmuseums.org/about/smith-art-museum,Springfield,Massachusetts,1105,0.0,23948.0,1995.7,0.0
+32,33,Aspen Art Museum,aspenartmuseum.org,Aspen,Colorado,81611,0.0,96033.0,8002.8,0.0
+22,23,Timken Museum of Art,timkenmuseum.org,San Diego,California,92103,0.0,94210.0,7850.8,0.0
+228,235,North Carolina Museum of Art,ncartmuseum.org,Raleigh,North Carolina,27607,0.0,89179.0,7431.6,0.0
+313,322,Irving Arts Center,cityofirving.org/101/Arts-Culture,Irving,Texas,75062,0.0,68692.0,5724.3,0.0
+312,321,Station Museum of Contemporary Art,stationmuseum.com,Houston,Texas,77002,0.0,78292.0,6524.3,0.0
+311,320,Rothko Chapel,rothkochapel.org,Houston,Texas,77005,0.0,213059.0,17754.9,0.0
+310,319,Menil Collection,menil.org,Houston,Texas,77006,0.0,104375.0,8697.9,0.0
+121,127,List Visual Arts Center,listart.mit.edu,Cambridge,Massachusetts,2139,0.0,117124.0,9760.3,0.0
+308,317,Lawndale Art Center,lawndaleartcenter.org,Houston,Texas,77006,0.0,104375.0,8697.9,0.0
+232,239,North Dakota Museum of Art,ndmoa.com,Grand Forks,North Dakota,58202,0.0,28777.0,2398.1,0.0
+326,335,Middlebury College Museum of Art,museum.middlebury.edu,Middlebury,Vermont,5753,0.0,88041.0,7336.8,0.0
+328,337,Fralin Museum of Art,uvafralinartmuseum.virginia.edu,Charlottesville,Virginia,22903,0.0,66344.0,5528.7,0.0
+304,313,Sid Richardson Museum,sidrichardsonmuseum.org,Fort Worth,Texas,76107,0.0,77277.0,6439.8,0.0
+329,338,Chrysler Museum of Art,chrysler.org,Norfolk,Virginia,23510,0.0,71720.0,5976.7,0.0
+3,4,Montgomery Museum of Fine Arts,mmfa.org,Montgomery,Alabama,36117,0.0,73919.0,6159.9,0.0
+6,7,ASU Art Museum,asuartmuseum.asu.edu,Tempe,Arizona,85281,0.0,55572.0,4631.0,0.0
+8,9,Crystal Bridges Museum of American Art,crystalbridges.org,Bentonville,Arkansas,72701,0.0,49169.0,4097.4,0.0
+350,360,Patrick and Beatrice Haggerty Museum of Art,marquette.edu/haggerty,Milwaukee,Wisconsin,53211,0.0,73783.0,6148.6,0.0
+349,358,Madison Museum of Contemporary Art,mmoca.org,Madison,Wisconsin,53703,0.0,45623.0,3801.9,0.0
+136,142,Mount Holyoke College Art Museum,artmuseum.mtholyoke.edu,South Hadley,Massachusetts,1075,0.0,92740.0,7728.3,0.0
+215,221,Dia Chelsea,diaart.org/visit/visit-our-locations-sites/dia-chelsea-new-york-united-states,New York,New York,10011,0.0,145934.0,12161.2,0.0
+343,352,National Portrait Gallery,npg.si.edu,Washington,District of Columbia,20001,0.0,133211.0,11100.9,0.0
+342,351,Smithsonian American Art Museum,americanart.si.edu,Washington,District of Columbia,20001,0.0,133211.0,11100.9,0.0
+216,222,Wallach Art Gallery,wallach.columbia.edu,New York,New York,10027,0.0,63125.0,5260.4,0.0
+9,10,Arkansas Museum of Fine Arts,arkmfa.org,Little Rock,Arkansas,72202,0.0,46162.0,3846.8,0.0
+10,11,J. Paul Getty Museum,getty.edu/museum,Los Angeles,California,90049,0.0,161605.0,13467.1,0.0
+11,12,Hammer Museum,hammer.ucla.edu,Los Angeles,California,90024,0.0,74852.0,6237.7,0.0
+335,344,Frye Art Museum,fryemuseum.org,Seattle,Washington,98112,0.0,153204.0,12767.0,0.0
+125,131,Art Complex Museum,artcomplex.org,Duxbury,Massachusetts,2445,0.0,132970.0,11080.8,0.0
+170,176,Zimmerli Art Museum,zimmerlimuseum.rutgers.edu,New Brunswick,New Jersey,8901,0.0,57138.0,4761.5,0.0
+169,175,Newark Museum of Art,newarkmuseumart.org,Newark,New Jersey,7102,0.0,35515.0,2959.6,0.0
+208,214,Hispanic Society of America,hispanicsociety.org,New York,New York,10032,0.0,56752.0,4729.3,0.0
+330,339,Virginia Museum of Fine Arts,vmfa.museum,Richmond,Virginia,23220,0.0,51830.0,4319.2,0.0
+305,314,ArtCar Museum,artcarmuseum.com,Houston,Texas,77007,0.0,140536.0,11711.3,0.0
+302,311,Kimbell Art Museum,kimbellart.org,Fort Worth,Texas,76107,0.0,77277.0,6439.8,0.0
+36,37,Denver Public Library,denverlibrary.org,Denver,Colorado,80204,0.0,74993.0,6249.4,0.0
+106,112,Colby College Museum of Art,colby.edu/museum,Waterville,Maine,4901,0.0,50835.0,4236.2,0.0
+275,282,Greenville County Museum of Art,gcma.org,Greenville,South Carolina,29601,0.0,70580.0,5881.7,0.0
+69,75,Krannert Art Museum,kam.illinois.edu,Champaign,Illinois,61801,0.0,35266.0,2938.8,0.0
+156,162,Saint Louis Art Museum,slam.org,St. Louis,Missouri,63110,0.0,69420.0,5785.0,0.0
+72,78,National Museum of Mexican Art,nationalmuseumofmexicanart.org,Chicago,Illinois,60608,0.0,66821.0,5568.4,0.0
+73,79,National Museum of Puerto Rican Arts and Culture,nmprac.org,Chicago,Illinois,60622,0.0,119134.0,9927.8,0.0
+141,147,Rose Art Museum,brandeis.edu/rose,Waltham,Massachusetts,2453,0.0,111294.0,9274.5,0.0
+76,82,Smart Museum of Art,smartmuseum.uchicago.edu,Chicago,Illinois,60637,0.0,37247.0,3103.9,0.0
+110,116,Mead Art Museum,museums.fivecolleges.edu/mead,Amherst,Massachusetts,1002,0.0,74265.0,6188.8,0.0
+142,148,Davis Museum and Cultural Center,wellesley.edu/davismuseum,Wellesley,Massachusetts,2481,0.0,250000.0,20833.3,0.0
+155,161,Lauren Rogers Museum of Art,lrma.org,Laurel,Mississippi,39401,0.0,36552.0,3046.0,0.0
+150,156,Minneapolis Institute of Art,artsmia.org,Minneapolis,Minnesota,55404,0.0,40817.0,3401.4,0.0
+89,95,Stanley Museum of Art,stanleymuseum.uiowa.edu,Iowa City,Iowa,52242,0.0,41776.0,3481.3,0.0
+109,115,Walters Art Museum,thewalters.org,Baltimore,Maryland,21201,0.0,42324.0,3527.0,0.0
+93,99,Nerman Museum of Contemporary Art,nermanmuseum.org,Overland Park,Kansas,66210,0.0,89587.0,7465.6,0.0
+147,153,University of Michigan Museum of Art,umma.umich.edu,Ann Arbor,Michigan,48109,0.0,13708.0,1142.3,0.0
+96,102,Owensboro Museum of Fine Art,omfa.us,Owensboro,Kentucky,42303,0.0,61777.0,5148.1,0.0
+101,107,Bowdoin College Museum of Art,bowdoin.edu/art-museum,Brunswick,Maine,4011,0.0,71236.0,5936.3,0.0
+256,263,Westmoreland Museum of American Art,thewestmoreland.org,Greensburg,Pennsylvania,15601,0.0,71134.0,5927.8,0.0
+108,114,Baltimore Museum of Art,artbma.org,Baltimore,Maryland,21218,0.0,58847.0,4903.9,0.0
+113,119,Addison Gallery of American Art,addison.andover.edu,Andover,Massachusetts,1810,0.0,162694.0,13557.8,0.0
+66,72,John Young Museum of Art,STILL TRYING TO FIND INFO,Honolulu,Hawaii,96822,0.0,91312.0,7609.3,0.0
+278,285,Knoxville Museum of Art,knoxart.org,Knoxville,Tennessee,37916,0.0,18586.0,1548.8,0.0
+293,302,The Pearce Collections at Navarro College,pearcecollections.us,Corsicana,Texas,75110,0.0,51048.0,4254.0,0.0
+301,310,Amon Carter Museum,cartermuseum.org,Fort Worth,Texas,76107,0.0,77277.0,6439.8,0.0
+300,309,El Paso Museum of Art,epma.art,El Paso,Texas,79901,0.0,14142.0,1178.5,0.0
+162,168,Museum of Nebraska Art,mona.unk.edu,Kearney,Nebraska,68801,0.0,58266.0,4855.5,0.0
+161,167,Missoula Art Museum,missoulaartmuseum.org,Missoula,Montana,59801,0.0,51494.0,4291.2,0.0
+233,240,Taube Museum of Art,taubemuseum.org,Minot,North Dakota,58701,0.0,74753.0,6229.4,0.0
+296,305,Dallas Museum of Art,dma.org,Dallas,Texas,75201,0.0,102891.0,8574.2,0.0
+235,242,Cincinnati Art Museum,cincinnatiartmuseum.org,Cincinnati,Ohio,45202,0.0,86765.0,7230.4,0.0
+294,303,Crow Collection of Asian Art,dma.org/crow-collection,Dallas,Texas,75201,0.0,102891.0,8574.2,0.0
+292,300,Art Museum of Southeast Texas,amset.org,Beaumont,Texas,77701,0.0,46653.0,3887.8,0.0
+243,250,The Butler Institute of American Art,butlerart.com,Youngstown,Ohio,44502,0.0,32264.0,2688.7,0.0
+238,245,The Cleveland Museum of Art,clevelandart.org,Cleveland,Ohio,44106,0.0,39878.0,3323.2,0.0
+117,123,McMullen Museum of Art,bc.edu/sites/artmuseum,Boston,Massachusetts,2467,0.0,171250.0,14270.8,0.0
+158,164,Kemper Museum of Contemporary Art,kemperart.org,Kansas City,Missouri,64111,0.0,60330.0,5027.5,0.0
+157,163,Nelson-Atkins Museum of Art,nelson-atkins.org,Kansas City,Missouri,64111,0.0,60330.0,5027.5,0.0
+285,292,Fisk University Galleries,fisk.edu/galleries,Nashville,Tennessee,37208,0.0,59050.0,4920.8,0.0
+64,70,Hawaii State Art Museum,sfca.hawaii.gov/hisam,Honolulu,Hawaii,96813,0.0,86355.0,7196.2,0.0
+241,248,Allen Memorial Art Museum,oberlin.edu/amam,Oberlin,Ohio,44074,0.0,68014.0,5667.8,0.0
+242,249,Toledo Museum of Art,toledomuseum.org,Toledo,Ohio,43620,0.0,22361.0,1863.4,0.0
+0,1,Birmingham Museum of Art,artsbma.org,Birmingham,Alabama,35203,0.0,42596.0,3549.7,0.0
