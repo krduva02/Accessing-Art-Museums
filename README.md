@@ -26,8 +26,19 @@ Follow these steps to run the project on a local machine:
 
  1. After cloning the repo to your machine, navigate to the project folder in GitBash/Terminal.
  2. Create a virtual environment in the project folder.
-   On Windows: python -m venv venv
-   On macOS and Linux: python3 -m venv venv
+
+   On Windows:
+
+   ```
+   python -m venv venv
+   ```
+
+   On macOS and Linux:
+
+   ```
+   python3 -m venv venv
+   ```
+   
  3. Activate the virtual environment. `source venv/bin/activate`
  4. Install the required packages. `pip install -r requirements.txt`
 
