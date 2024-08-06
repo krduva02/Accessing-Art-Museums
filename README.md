@@ -19,31 +19,20 @@ The following installations are required for running this project:
 
 Follow these steps to run the project on a local machine:
 
-1. **Access and clone repo**
-
-  https://github.com/krduva02/Accessing-Art-Museums
+1. **Access and clone repo** - https://github.com/krduva02/Accessing-Art-Museums
 
 2. **Install virtual environment**
 
- 1. After cloning the repo to your machine, navigate to the project folder in GitBash/Terminal.
+  a. After cloning the repo to your machine, navigate to the project folder in GitBash/Terminal.
 
- 2. Create a virtual environment in the project folder.
+  b. Create a virtual environment in the project folder.
 
-   On Windows:
+  On Windows: `python -m venv venv`
+  On macOS and Linux: `python3 -m venv venv`
+  
+  c. Activate the virtual environment. `source venv/bin/activate`
 
-   ```
-   python -m venv venv
-   ```
-
-   On macOS and Linux:
-
-   ```
-   python3 -m venv venv
-   ```
-
- 3. Activate the virtual environment. `source venv/bin/activate`
- 
- 4. Install the required packages. `pip install -r requirements.txt`
+  d. Install the required packages. `pip install -r requirements.txt`
 
  A new virtual environment named `venv` will now be in the current directory.
  
@@ -56,5 +45,7 @@ Follow these steps to run the project on a local machine:
    ```
 
 4. **Run the ```Accessing Art Museums.ipynb``` file:**
-    - This project was developed using Jupyter Notebook, which was installed in the previous step (installing packages).
+    - This project was developed using Jupyter Notebook, which was installed in the previous step (Install required packages).
     - After opening ```Accessing Art Museums.ipynb```, run all cells in the notebook by selecting **Run All** or run each cell individually by selecting **Execute Cell** at the top left of each cell.
+
+## Data Interpretation
