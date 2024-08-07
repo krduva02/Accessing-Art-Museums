@@ -13,4 +13,3 @@ tzdata==2023.3
 ipykernel
 matplotlib
 matplotlib-inline
-matplotlib.pyplot
