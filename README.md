@@ -2,50 +2,64 @@
 ## Comparing Art Museum Admission Costs to Local Income Data
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg/1280px-Metropolitan_Museum_of_Art_%28The_Met%29_-_Central_Park%2C_NYC.jpg" alt="Metropolitan Museum of Art" width="500" height="300">
 
-
-## About
+## Overview
 As art museums continue to market accessibility and the value of experiencing visual art, costs of admission continue to rise, often past what is accessible to the community in which the museum is based. This project aims to evaluate the economic accessibility of art museums in the United States by comparing costs of admission to income data of the local community.
 
+## Data
 
-## Data Sources
 The following data sets are used in this project:
 1. US Art Museums (CSV) - Art museums in the United States with data points including website, city, state, ZIP Code, and cost of admission
 2. 2022 Census Income Data (CSV) - [Income data by ZIP Code from the United States Census Bureau](https://data.census.gov/table?q=S1903:%20Median%20Income%20in%20the%20Past%2012%20Months%20(in%202022%20Inflation-Adjusted%20Dollars)&g=010XX00US$8600000)
 
-## Setup
-The following installations are required for running this project:
- - Python - This project was developed using Python 3.12.4. Installation or upgrades to current versions can be accessed at the [Python website](https://www.python.org/downloads/).
- - Git - This project includes a repository (repo) that requires cloning. Installation of Git can be accessed at the [Git website](https://git-scm.com/downloads).
+### Project Structure
+---
 
-Follow these steps to run the project on a local machine:
+The project is organized as follows:
 
-1. **Access and clone repo** - https://github.com/krduva02/Accessing-Art-Museums
+- **Data Exploration:** Jupyter notebooks to explore the dataset.
 
-2. **Install virtual environment**
+- **Analysis:** Using Python with the Pandas package to clean the data.
 
-  a. After cloning the repo to your machine, navigate to the project folder in GitBash/Terminal.
+- **Visualizations :** Using Matplotlib to visualize my findings. 
 
-  b. Create a virtual environment in the project folder.
+## Features Utilized for the project
 
-  On Windows: `python -m venv venv`
-  On macOS and Linux: `python3 -m venv venv`
-  
-  c. Activate the virtual environment. `source venv/bin/activate`
+  | Feature        | Description                           |
+  |----------------|---------------------------------------|
+  | Read TWO data files| Used 2 CSV files          |
+  | Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.      | Cleaned my data and merged them with pandas. Then calculated stats from various data points for the new set. |
+  | Make 3 matplotlib visualizations to display your data. | Made various graphs with matplotlib to show data. |
+  | Utilize a virtual environment      | Made a venv for this project to keep my computer clean. |
+  | Notate your code with markdown cells in Jupyter Notebook | Included in my code, you will find clear notes describing each code block. |
 
-  d. Install the required packages. `pip install -r requirements.txt`
+## Getting Started
 
- A new virtual environment named `venv` will now be in the current directory.
- 
-3. **Install required packages**
+To run this project, follow these steps:
 
-   Install the required packages by running the following command:
+1. Clone the repository: `git clone https://github.com/krduva02/Accessing-Art-Museums`
+2. Install the necessary dependencies: `pip install -r requirements.txt`
+3. Explore the Jupyter notebooks or scripts in the respective folders.
 
-   ```
-   pip install -r requirements.txt
-   ```
+## Dependencies
 
-4. **Run the ```Accessing Art Museums.ipynb``` file:**
-    - This project was developed using Jupyter Notebook, which was installed in the previous step (Install required packages).
-    - After opening ```Accessing Art Museums.ipynb```, run all cells in the notebook by selecting **Run All** or run each cell individually by selecting **Execute Cell** at the top left of each cell.
+List any dependencies or libraries used in the project.
+
+###  Virtual Environment Instructions
+---
+1. After you have cloned the repo to your machine, navigate to the project 
+folder in GitBash/Terminal.
+1. Create a virtual environment in the project folder. 
+1. Activate the virtual environment.
+1. Install the required packages. 
+1. When you are done working on your repo, deactivate the virtual environment.
+
+Virtual Environment Commands
+
+| Command | Linux/Mac | GitBash |
+|---------|-----------|---------|
+| Create | `python3 -m venv venv` | `python -m venv venv` |
+| Activate | `source venv/bin/activate` | `source venv/Scripts/activate` |
+| Install | `pip install -r requirements.txt` | `pip install -r requirements.txt` |
+| Deactivate | `deactivate` | `deactivate` |
 
 ## Data Interpretation
