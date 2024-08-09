@@ -40,11 +40,7 @@ To run this project, follow these steps:
 2. Install the necessary dependencies: `pip install -r requirements.txt`
 3. Explore the Jupyter notebooks or scripts in the respective folders.
 
-## Dependencies
-
-List any dependencies or libraries used in the project.
-
-###  Virtual Environment Instructions
+##  Virtual Environment Instructions
 ---
 1. After you have cloned the repo to your machine, navigate to the project 
 folder in GitBash/Terminal.
@@ -63,3 +59,9 @@ Virtual Environment Commands
 | Deactivate | `deactivate` | `deactivate` |
 
 ## Data Interpretation
+The data shows that presumed offenders of excessively high admission prices, particularly museums in large cities like New York and Los Angeles, actually trend fair when considering relation to income of the local area. Mid-size cities like Akron (OH), Louisville (KY), and Peoria (IL) are a few of the cities with the largest discrepancy between art museum admission prices and median income of the local area. This leads to the question of whether there exists an unspoken national standard for art museum admissions, which creates the larger discrepancy for mid-size cities with lower income ($20 in Los Angeles is not the same as $20 in Louisville, KY). Small towns and rural areas trend toward the most accessible museums at $0 per admission, possibly due to community efforts and less reliance on tourism. Moving forward, there is more work that can be done on this project to investigate the trends of art museum admission prices.
+
+Ideas for continuing the project:
+- Develop "community sets" so Index is not tied exclusively to ZIP code, rather to a combination of ZIP codes. This is particularly important in larger cities where multiple ZIP codes within commuting range to the museum may exist.
+- Show change over time by incorporating historic general admission prices and changes in median income.
+- Create a dashboard that can be filtered by users to pull specifically requested information.
